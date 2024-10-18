@@ -5,7 +5,7 @@ import numpy as np
 
 st.title('Uber pickups in NYC')
 
-st.text('FALA IGÃO, da uma olhada nesses dados de exemplo')
+st.text('O QUE ACHOU')
 
 DATE_COLUMN = 'date/time'
 DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
